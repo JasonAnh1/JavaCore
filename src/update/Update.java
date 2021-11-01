@@ -22,6 +22,6 @@ public class Update {
 			default: System.out.println("Lua chon chuc nang khong hop le");
 			}
 		}while (true);
-		//1
+		
 	}
 }
