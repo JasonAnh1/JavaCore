@@ -9,7 +9,7 @@ import update.DanhSachSinhVien;
 public class search {
 	static Scanner sc = new Scanner(System.in);
 	public static void tk() {
-
+Ã¡
 		int chon;
 		do {
 			System.out.println("\n-------Chuc nang tim kiem--------");
@@ -66,5 +66,5 @@ for( int i = 0; i<DanhSachBangDiem.list.size();i++) if(mmh == DanhSachBangDiem.l
 	k++;
 }
 System.out.printf("Diem trung binh mon la %f: ",diemtb/k);
-}}ádasdasd
+}}ï¿½dasdasd
 
