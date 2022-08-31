@@ -66,5 +66,5 @@ for( int i = 0; i<DanhSachBangDiem.list.size();i++) if(mmh == DanhSachBangDiem.l
 	k++;
 }
 System.out.printf("Diem trung binh mon la %f: ",diemtb/k);
-}}
+}}ádasdasd
 
